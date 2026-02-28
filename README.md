@@ -110,7 +110,7 @@ MIT License
 
 ## 👨‍💻 Author
 
-Your Name
+Krzysztof Smykla
 
 ---
 
